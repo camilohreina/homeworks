@@ -59,8 +59,14 @@
 
 ## MockUps Bajo Nivel
 ![Untitled-2024-01-22-0858](https://github.com/camilohreina/homeworks/assets/59514545/b8b7ed65-c13d-4abf-9cdb-1375cbba7812)
+![image](https://github.com/camilohreina/homeworks/assets/59514545/2676b277-89dd-40c9-bda1-178b4f41fcd0)
 ![Untitled-2024-01-22-0858-2](https://github.com/camilohreina/homeworks/assets/59514545/b2d09a80-084e-4562-9145-e97107a3a6bd)
 ![Untitled-2024-01-22-0858-3](https://github.com/camilohreina/homeworks/assets/59514545/7fb68d43-1f0f-4ae5-a900-e39a73d363e1)
 ![Untitled-2024-01-22-0858-4](https://github.com/camilohreina/homeworks/assets/59514545/ca40270f-897c-4b93-a259-b34cf315925a)
+![image](https://github.com/camilohreina/homeworks/assets/59514545/7960510d-bd47-4a4c-bba2-b64a3ba7204a)
+![image](https://github.com/camilohreina/homeworks/assets/59514545/5afd0c38-2433-4b11-beed-a0793b2c6f0d)
+
+
+
 
 
