@@ -66,7 +66,8 @@
 ![image](https://github.com/camilohreina/homeworks/assets/59514545/7960510d-bd47-4a4c-bba2-b64a3ba7204a)
 ![image](https://github.com/camilohreina/homeworks/assets/59514545/5afd0c38-2433-4b11-beed-a0793b2c6f0d)
 
+## [MockUps Alto Nivel - Figma](https://www.figma.com/file/60ldf4eqIugvoevAlXAjTf/Untitled?type=design&node-id=0%3A1&mode=design&t=oNj5f8gyYbgMA43G-1)
 
-
+![image](https://github.com/camilohreina/homeworks/assets/59514545/30706819-4b04-4294-8dc2-1e94b3b758e7)
 
 
