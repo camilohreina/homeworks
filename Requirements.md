@@ -10,11 +10,11 @@
 **Visualización de Cartelera:**
 
 - Mostrar las películas en proyección, junto con detalles como horarios, clasificación, sinopsis y tráiler.
-- Filtrar y buscar películas por género, título, clasificación, tags, categorias etc.
+- Filtrar y buscar películas por género, título, clasificación, tags, categorias etc. (Se utlizarán Linked List para los filtros)
 
 **Reservas:**
 
-- Permitir a los usuarios seleccionar asientos y horarios para realizar reservas.
+- Permitir a los usuarios seleccionar asientos y horarios para realizar reservas. (Se utlizarán Colas o Queue para determinar el orden de llegada)
 
 **Gestión de Perfil:**
 
@@ -67,7 +67,8 @@
 ![image](https://github.com/camilohreina/homeworks/assets/59514545/5afd0c38-2433-4b11-beed-a0793b2c6f0d)
 
 ## [MockUps Alto Nivel - Figma](https://www.figma.com/file/60ldf4eqIugvoevAlXAjTf/Untitled?type=design&node-id=0%3A1&mode=design&t=oNj5f8gyYbgMA43G-1)
-
+- El desarrollo del sitio web en consideración a los estilos se utilizará Tailwind + Flowbite
+  
 ![image](https://github.com/camilohreina/homeworks/assets/59514545/30706819-4b04-4294-8dc2-1e94b3b758e7)
 
 
