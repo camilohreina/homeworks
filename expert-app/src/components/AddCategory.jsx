@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import PropTypes from 'prop-types';
 
 export const AddCategory = ({ onAddCategory }) => {
   const [category, setCategory] = useState('');
@@ -17,4 +18,8 @@ export const AddCategory = ({ onAddCategory }) => {
       <button onClick={onHandleAddCategory}>Add Category</button>
     </>
   );
+};
+
+AddCategory.propTypes = {
+  onAddCategory: PropTypes.func.isRequired,
 };
