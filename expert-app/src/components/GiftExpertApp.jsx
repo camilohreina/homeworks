@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import { AddCategory } from './AddCategory';
+import { GiftGrid } from './GiftGrid';
 
 export const GiftExpertApp = () => {
   const [categories, setCategories] = useState([
@@ -6,24 +8,18 @@ export const GiftExpertApp = () => {
     'Samurai X',
     'Dragon Ball',
   ]);
-  const [category, setCategory] = useState('');
 
-  const onHandleAdd = () => {
+  const onHandleAdd = (category) => {
     setCategories((list) => [...list, category]);
-    setCategory('');
-  };
-  const onSetCategory = (evt) => {
-    setCategory(evt.target.value);
   };
 
   return (
     <>
       <h1>Gift Expert</h1>
-      <input type="text" value={category} onChange={onSetCategory} />
-      <button onClick={onHandleAdd}>Add Category</button>
+      <AddCategory onAddCategory={onHandleAdd} />
       <ol>
         {categories.map((category, index) => (
-          <li key={index}>{category}</li>
+          <GiftGrid key={index} category={category} />
         ))}
       </ol>
     </>
